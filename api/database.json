@@ -1,0 +1,52 @@
+{
+  "jarmuvek": [
+    {
+      "id": 1,
+      "rendszam": "ABC-123",
+      "urtartalom": "1400",
+      "ar": 77
+    },
+    {
+      "id": 2,
+      "rendszam": "DEE-273",
+      "urtartalom": "1400",
+      "ar": 98
+    },
+    {
+      "id": 3,
+      "rendszam": "CGE-391",
+      "urtartalom": "1600",
+      "ar": 70
+    },
+    {
+      "id": 4,
+      "rendszam": "MDE-872",
+      "urtartalom": "1400",
+      "ar": 175
+    },
+    {
+      "id": 5,
+      "rendszam": "LDE-834",
+      "urtartalom": "1200",
+      "ar": 79
+    },
+    {
+      "rendszam": "DDD-888",
+      "urtartalom": 1600,
+      "ar": 122,
+      "id": 6
+    },
+    {
+      "rendszam": "DDD-888",
+      "urtartalom": 1600,
+      "ar": 122,
+      "id": 7
+    },
+    {
+      "rendszam": "DDD-888",
+      "urtartalom": 1600,
+      "ar": 122,
+      "id": 8
+    }
+  ]
+}
